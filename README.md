@@ -1,4 +1,4 @@
-# auto-mocke
+# auto-mocker
 
 # Идея 
 
